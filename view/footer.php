@@ -17,8 +17,8 @@
 
 </ul>
 <ul class="menu-footer">
-    <li class="menu-item"><a class="menu-link" href="/pages/home.php">Home</a></li>
-    <li class="menu-item"><a class="menu-link" href="/pages/about.php">About</a></li>
+    <li cc><a class="menu-link" href="/pages/home.php">Home</a></li>
+    <li class="menu-item"><a class="menu-link" href="/pages/portfolio.php">Portfolio</a></li>
     <li class="menu-item"><a class="menu-link" href="#">Services</a></li>
     <li class="menu-item"><a class="menu-link" href="#">Team</a></li>
     <li class="menu-item"><a class="menu-link" href="/pages/contact.php">Contact</a></li>
