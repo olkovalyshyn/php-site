@@ -19,7 +19,18 @@ $page = 'contact';
             <?php require('../view/header.php'); ?>
         </header>
         <main class="main-area">
-            <h2>Contact page</h2>
+            <section class="contact">
+                <h3>Contact us</h3>
+                <form action="contact-form.php" method="post" target="_blank">
+                    <input type="text" name="user" placeholder="Your full name" />
+                    <input type="tel" name="tel" placeholder="Your phone number" />
+                    <input type="email" name="email" placeholder="Your mail" />
+                    <textarea name="message" placeholder="Type your message here ........"></textarea>
+                    <button class="main-btn" type="submit">Send message</button>
+                </form>
+
+            </section>
+
         </main>
         <footer>
             <?php require('../view/footer.php') ?>
